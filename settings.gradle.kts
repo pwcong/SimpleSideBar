@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "SimpleSideBarDemo"
 include(":app")
- 
+include(":simplesidebar")

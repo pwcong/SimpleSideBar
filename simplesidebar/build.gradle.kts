@@ -7,7 +7,7 @@ plugins {
 }
 
 android {
-    namespace = "me.pwcong.simplesidebar"
+    namespace = "com.github.pwcong.simplesidebar"
     compileSdk = 34
 
     defaultConfig {

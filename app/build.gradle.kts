@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "me.pwcong.simplesidebardemo"
+    namespace = "com.github.pwcong.simplesidebardemo"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "me.pwcong.simplesidebardemo"
+        applicationId = "com.github.pwcong.simplesidebardemo"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

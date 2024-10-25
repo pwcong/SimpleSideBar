@@ -17,7 +17,7 @@
 
     </LinearLayout>
 
-    <me.pwcong.simplesidebar.view.SimpleSideBar
+    <com.github.pwcong.simplesidebar.view.SimpleSideBar
         android:id="@+id/sidebar"
         android:layout_width="30dp"
         android:layout_height="wrap_content" />
